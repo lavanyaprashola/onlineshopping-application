@@ -1,0 +1,7 @@
+C:\Users\lavanya.eswaran\source\repos\LillyBotique\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\lavanya.eswaran\source\repos\LillyBotique\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\lavanya.eswaran\source\repos\LillyBotique\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\lavanya.eswaran\source\repos\LillyBotique\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\lavanya.eswaran\source\repos\LillyBotique\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\lavanya.eswaran\source\repos\LillyBotique\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\lavanya.eswaran\source\repos\LillyBotique\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
